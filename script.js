@@ -30,7 +30,7 @@ let enemySpeedMultiplier = 1;
 let dashCooldown = 0;
 const dashCooldownTime = 1000;
 
-const dashDistance = 120;
+const dashDistance = 180;
 
 // =====================================
 // Player
